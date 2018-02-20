@@ -1,0 +1,24 @@
+{
+  "name": "dev-env-prac",
+  "version": "1.0.0",
+  "description": "Prac",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArslanAmeer/Dev-Env-Prac.git"
+  },
+  "author": "Arslan Ameer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArslanAmeer/Dev-Env-Prac/issues"
+  },
+  "homepage": "https://github.com/ArslanAmeer/Dev-Env-Prac#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-less": "^3.5.0"
+  }
+}
